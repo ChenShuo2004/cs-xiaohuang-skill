@@ -1,3 +1,5 @@
+> **English:** A reusable creative toolkit for the Xiaohuang brand, including presentation slides, article illustrations, web slides, and product videos.
+
 # CS 小黄内容与产品表达
 
 > 围绕同一个小黄，把内容和产品表达拆成四种可直接交付的能力：小黄 PPT 页面、文章配图、网页幻灯片与 PPTX 网页化、产品宣传视频。小黄 IP 延展保留为 `cs-xiaohuang-skill` 的基础能力，用来守住静态视觉表达的一致性。
